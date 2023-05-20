@@ -1,10 +1,10 @@
 # starting
 
-A new Flutter project.
+An Flutter Intro project for OOP students of TIU in IT Dept.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for OOP students towards learning Flutter applications with simple OOP level.
 
 A few resources to get you started if this is your first Flutter project:
 
